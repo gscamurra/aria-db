@@ -53,12 +53,17 @@
 }
 
 footer {
-    background-color: #00264d;
+    background-color: #00264d !important;
     color: #fff;
     font-size: 18px;
-
 }
 
+footer a { 
+    color: #FFF !important;
+}
 
+footer a:hover { 
+    text-decoration: underline;
+}
 
 
