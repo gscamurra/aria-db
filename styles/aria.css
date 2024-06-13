@@ -1,4 +1,4 @@
-a.button:any-link, button {
+.news  a.button:any-link, .news button {
     background-color: #297A38 !important;
     border-color: #297A38 !important;
     border-radius: 0;
