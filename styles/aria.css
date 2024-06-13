@@ -1,8 +1,10 @@
 .news a.button:hover, .news a.button:focus, .news button:hover, .news button:focus
 {
-   background-color: #297A38 !important; 
+   background-color: #297A38 !important;
+   border-color: #297A38 !important;
 }
 
 a.button:any-link, button {
-    background-color: #297A38 !important; 
+    background-color: #035011 !important;
+    border-color: #035011 !important;
 }
