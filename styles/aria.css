@@ -13,3 +13,8 @@ a.button:any-link, button {
     border-color: #035011 !important;
 }
 
+.news p {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
