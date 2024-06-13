@@ -64,6 +64,8 @@ footer a {
     color: #FFF !important;
     padding-left: 17px;
     padding-right: 17px;
+    border-left: 2px solid;
+    border-right: 2px solid;
 }
 
 footer a:hover { 
