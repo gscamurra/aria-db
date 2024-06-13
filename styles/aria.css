@@ -1,10 +1,15 @@
 a.button:any-link, button {
-   background-color: #297A38 !important;
-   border-color: #297A38 !important;    
+    background-color: #297A38 !important;
+    border-color: #297A38 !important;
+    border-radius: 0;
+    width: 100%;
+    text-align: left;
+    padding: 6px 15px;
+    font-size: 18px;    
 }
 
 .news a.button:hover, .news a.button:focus, .news button:hover, .news button:focus {
-   background-color: #035011 !important;
-   border-color: #035011 !important;
+    background-color: #035011 !important;
+    border-color: #035011 !important;
 }
 
