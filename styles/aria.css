@@ -52,6 +52,10 @@
     color: #297A38;
 }
 
+.fourcards ul li {
+    border: 0 !important;
+}
+
 footer {
     background-color: #00264d !important;
     color: #fff;
@@ -74,5 +78,7 @@ footer a {
 footer a:hover { 
     text-decoration: underline;
 }
+
+
 
 
