@@ -55,11 +55,15 @@
 footer {
     background-color: #00264d !important;
     color: #fff;
-    font-size: 18px;
+    font-size: 18px !important;
+    padding-top: 4rem;
+    padding-bottom: 3rem;
 }
 
 footer a { 
     color: #FFF !important;
+    padding-left: 17px;
+    padding-right: 17px;
 }
 
 footer a:hover { 
