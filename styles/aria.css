@@ -19,3 +19,7 @@ a.button:any-link, button {
     font-size: 18px;
 }
 
+.icons img {
+    width: 100px !important;
+}
+
