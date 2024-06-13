@@ -1,5 +1,10 @@
+.fullwidth {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
 .fullwidth .carousel-wrapper {
-    width: 100% !important;
+    max-width: 100% !important;
 }
 
 .news  a.button:any-link, .news button {
