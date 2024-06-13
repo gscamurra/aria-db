@@ -1,3 +1,7 @@
+.fullwidth .carousel-wrapper {
+    width: 100% !important;
+}
+
 .news  a.button:any-link, .news button {
     background-color: #297A38 !important;
     border-color: #297A38 !important;
@@ -22,4 +26,6 @@
 .icons img {
     width: 80px !important;
 }
+
+
 
