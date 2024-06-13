@@ -1,0 +1,4 @@
+.news .a.button:hover, .news a.button:focus, .news button:hover, .news button:focus
+{
+   background-color: #297A38 !important; 
+}
