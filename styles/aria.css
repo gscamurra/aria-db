@@ -40,5 +40,18 @@
     max-width: 200px !important;
 }
 
+.information a.button {
+    padding: 0;
+    color: #297a38;
+    background: transparent;
+    border: 0;
+}
+
+.information a.button:hover {
+    text-decoration: underline;
+    color: #297A38;
+}
+
+
 
 
