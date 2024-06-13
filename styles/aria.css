@@ -32,8 +32,8 @@
     width: 80px !important;
 }
 
-.information {
-
+.information p {
+    font-size: 18px;
 }
 
 .information img {
